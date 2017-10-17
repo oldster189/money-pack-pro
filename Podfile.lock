@@ -1,0 +1,15 @@
+PODS:
+  - APAvatarImageView (1.1.0)
+  - Kingfisher (4.0.1)
+
+DEPENDENCIES:
+  - APAvatarImageView
+  - Kingfisher (~> 4.0)
+
+SPEC CHECKSUMS:
+  APAvatarImageView: 428dbd0631a150fe876f90bfd7eaa275a19b9209
+  Kingfisher: b771785e9461ed4b8686d40e7145f9e58100cb24
+
+PODFILE CHECKSUM: c4779771c0132a2b5cea84bfd5ea11cbea25f508
+
+COCOAPODS: 1.3.1
